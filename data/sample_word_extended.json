@@ -1,0 +1,333 @@
+{
+    "paragraphs": [
+        "Some doc name",
+        "Some header text",
+        "Some another test, some tags"
+    ],
+    "content": [
+        {
+            "groupName": "Group A",
+            "content": [
+                {
+                    "key": {
+                        "name": "Topic 11111",
+                        "description": ""
+                    },
+                    "onDispatch": {
+                        "value": "L987orem some text 654321",
+                        "history": [
+                            {
+                                "id": 2,
+                                "user": "Iuliia Bielovol",
+                                "datetime": "2024-01-10T16:36:00Z",
+                                "oldValue": "Lorem",
+                                "newValue": "L987orem"
+                            },
+                            {
+                                "id": 3,
+                                "user": "Iuliia Bielovol",
+                                "datetime": "2024-01-11T13:30:00Z",
+                                "oldValue": "L987orem",
+                                "newValue": "L987oremsome text 654"
+                            },
+                            {
+                                "id": 4,
+                                "user": "Iuliia Bielovol",
+                                "datetime": "2024-01-11T13:30:00Z",
+                                "oldValue": "L987oremsome text 654",
+                                "newValue": "L987oremsome text 654321"
+                            }
+                        ],
+                        "comments": []
+                    },
+                    "onSubmission": {
+                        "value": "Ipsum",
+                        "history": [],
+                        "comments": [
+                            {
+                                "user": "Iuliia Bielovol",
+                                "datetime": "2024-01-11T19:09:00Z",
+                                "comment": "New Comment for \"Ipsum\" value"
+                            },
+                            {
+                                "user": "Iuliia Bielovol",
+                                "datetime": "2024-01-11T19:12:00Z",
+                                "comment": "4th comment for \"Ipsum\""
+                            }
+                        ]
+                    },
+                    "onApproval": {
+                        "value": "Dolor",
+                        "history": [],
+                        "comments": []
+                    }
+                },
+                {
+                    "key": {
+                        "name": "Topic 21",
+                        "description": ""
+                    },
+                    "onDispatch": {
+                        "value": "zzz LoremIps",
+                        "history": [
+                            {
+                                "id": 7,
+                                "user": "Iuliia Bielovol",
+                                "datetime": "2024-01-12T09:34:00Z",
+                                "oldValue": "Sit1",
+                                "newValue": "zzz"
+                            },
+                            {
+                                "id": 8,
+                                "user": "Iuliia Bielovol",
+                                "datetime": "2024-01-12T09:01:00Z",
+                                "oldValue": "zzzSit1",
+                                "newValue": "zzz"
+                            },
+                            {
+                                "id": 9,
+                                "user": "Iuliia Bielovol",
+                                "datetime": "2024-01-12T09:34:00Z",
+                                "oldValue": "zzzSit1",
+                                "newValue": "zzzLoremIps"
+                            }
+                        ],
+                        "comments": []
+                    },
+                    "onSubmission": {
+                        "value": "Amet",
+                        "history": [],
+                        "comments": [
+                            {
+                                "user": "Iuliia Bielovol",
+                                "datetime": "2024-01-11T19:11:00Z",
+                                "comment": "And comment for \"Amet\""
+                            }
+                        ]
+                    },
+                    "onApproval": {
+                        "value": "\u2026",
+                        "history": [],
+                        "comments": []
+                    }
+                },
+                {
+                    "key": {
+                        "name": "Topic 31",
+                        "description": ""
+                    },
+                    "onDispatch": {
+                        "value": "Yu new changes123",
+                        "history": [
+                            {
+                                "id": 12,
+                                "user": "Iuliia Bielovol",
+                                "datetime": "2024-01-09T20:40:00Z",
+                                "oldValue": "",
+                                "newValue": "Yu new changes"
+                            },
+                            {
+                                "id": 13,
+                                "user": "Iuliia Bielovol",
+                                "datetime": "2024-01-09T20:40:00Z",
+                                "oldValue": "Yu new changes",
+                                "newValue": "Yu new changes123"
+                            }
+                        ],
+                        "comments": []
+                    },
+                    "onSubmission": {
+                        "value": "",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onApproval": {
+                        "value": "",
+                        "history": [],
+                        "comments": []
+                    }
+                },
+                {
+                    "key": {
+                        "name": "Topic 41",
+                        "description": ""
+                    },
+                    "onDispatch": {
+                        "value": "",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onSubmission": {
+                        "value": "OnSubmissionValue changed",
+                        "history": [
+                            {
+                                "id": 14,
+                                "user": "Iuliia Bielovol",
+                                "datetime": "2024-01-09T20:40:00Z",
+                                "oldValue": "",
+                                "newValue": "OnSubmissionValue changed"
+                            }
+                        ],
+                        "comments": []
+                    },
+                    "onApproval": {
+                        "value": "",
+                        "history": [],
+                        "comments": []
+                    }
+                },
+                {
+                    "key": {
+                        "name": "",
+                        "description": ""
+                    },
+                    "onDispatch": {
+                        "value": "",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onSubmission": {
+                        "value": "",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onApproval": {
+                        "value": "",
+                        "history": [],
+                        "comments": []
+                    }
+                },
+                {
+                    "key": {
+                        "name": "",
+                        "description": ""
+                    },
+                    "onDispatch": {
+                        "value": "",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onSubmission": {
+                        "value": "",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onApproval": {
+                        "value": "",
+                        "history": [],
+                        "comments": []
+                    }
+                }
+            ]
+        },
+        {
+            "groupName": "Group B",
+            "content": [
+                {
+                    "key": {
+                        "name": "Topic 12",
+                        "description": ""
+                    },
+                    "onDispatch": {
+                        "value": "Lorem",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onSubmission": {
+                        "value": "Ipsum groupB1",
+                        "history": [
+                            {
+                                "id": 16,
+                                "user": "Iuliia Bielovol",
+                                "datetime": "2024-01-09T20:40:00Z",
+                                "oldValue": "Ipsum",
+                                "newValue": "IpsumgroupB"
+                            },
+                            {
+                                "id": 18,
+                                "user": "Iuliia Bielovol",
+                                "datetime": "2024-01-09T20:42:00Z",
+                                "oldValue": "IpsumgroupB",
+                                "newValue": "IpsumgroupB1"
+                            }
+                        ],
+                        "comments": [
+                            {
+                                "user": "Iuliia Bielovol",
+                                "datetime": "2024-01-11T19:12:00Z",
+                                "comment": "And 3d comment for GroupB OnSubmission part"
+                            }
+                        ]
+                    },
+                    "onApproval": {
+                        "value": "Dolor",
+                        "history": [],
+                        "comments": []
+                    }
+                }
+            ]
+        },
+        {
+            "groupName": "Group C",
+            "content": [
+                {
+                    "key": {
+                        "name": "Topic 13",
+                        "description": ""
+                    },
+                    "onDispatch": {
+                        "value": "Lorem",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onSubmission": {
+                        "value": "Ipsum",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onApproval": {
+                        "value": "Dolor",
+                        "history": [
+                            {
+                                "id": 20,
+                                "user": "Iuliia Bielovol",
+                                "datetime": "2024-01-12T13:37:00Z",
+                                "oldValue": "Dolor",
+                                "newValue": "Dolor"
+                            },
+                            {
+                                "id": 21,
+                                "user": "Iuliia Bielovol",
+                                "datetime": "2024-01-12T13:36:00Z",
+                                "oldValue": "Doloror",
+                                "newValue": "Dolor"
+                            }
+                        ],
+                        "comments": []
+                    }
+                },
+                {
+                    "key": {
+                        "name": "Topic 23",
+                        "description": ""
+                    },
+                    "onDispatch": {
+                        "value": "Sit2 dfsd",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onSubmission": {
+                        "value": "Amet",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onApproval": {
+                        "value": "\u2026",
+                        "history": [],
+                        "comments": []
+                    }
+                }
+            ]
+        }
+    ]
+}

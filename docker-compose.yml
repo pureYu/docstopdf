@@ -1,0 +1,26 @@
+version: '3.9'
+services:
+  mongodb:
+    image: mongo:latest
+    container_name: mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - ./mongodb_data:/data/db
+
+  python_app:
+    image: python:3.9
+    container_name: python_app
+    volumes:
+      - ./app:/app
+      - ./data:/data
+      - ./requirements.txt:/usr/src/requirements.txt
+    working_dir: /app
+    command: bash -c "pip install -r /usr/src/requirements.txt && tail -f /dev/null"
+    depends_on:
+      - mongodb
+    env_file:
+      - docker-compose.env
+
+#volumes:
+#  mongodb_data:

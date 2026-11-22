@@ -1,0 +1,213 @@
+{
+    "paragraphs": [
+        "Some doc name",
+        "Some header text",
+        "Some another test, some tags"
+    ],
+    "content": [
+        {
+            "groupName": "Group A",
+            "content": [
+                {
+                    "key": {
+                        "name": "Topic 11",
+                        "description": ""
+                    },
+                    "onDispatch": {
+                        "value": "Lorem",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onSubmission": {
+                        "value": "Ipsum",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onApproval": {
+                        "value": "Dolor",
+                        "history": [],
+                        "comments": []
+                    }
+                },
+                {
+                    "key": {
+                        "name": "Topic 21",
+                        "description": ""
+                    },
+                    "onDispatch": {
+                        "value": "Sit1",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onSubmission": {
+                        "value": "Amet",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onApproval": {
+                        "value": "\u2026",
+                        "history": [],
+                        "comments": []
+                    }
+                },
+                {
+                    "key": {
+                        "name": "Topic 31",
+                        "description": ""
+                    },
+                    "onDispatch": {
+                        "value": "",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onSubmission": {
+                        "value": "",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onApproval": {
+                        "value": "",
+                        "history": [],
+                        "comments": []
+                    }
+                },
+                {
+                    "key": {
+                        "name": "Topic 41",
+                        "description": ""
+                    },
+                    "onDispatch": {
+                        "value": "",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onSubmission": {
+                        "value": "",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onApproval": {
+                        "value": "",
+                        "history": [],
+                        "comments": []
+                    }
+                },
+                {
+                    "key": {
+                        "name": "",
+                        "description": ""
+                    },
+                    "onDispatch": {
+                        "value": "",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onSubmission": {
+                        "value": "",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onApproval": {
+                        "value": "",
+                        "history": [],
+                        "comments": []
+                    }
+                },
+                {
+                    "key": {
+                        "name": "",
+                        "description": ""
+                    },
+                    "onDispatch": {
+                        "value": "",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onSubmission": {
+                        "value": "",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onApproval": {
+                        "value": "",
+                        "history": [],
+                        "comments": []
+                    }
+                }
+            ]
+        },
+        {
+            "groupName": "Group B",
+            "content": [
+                {
+                    "key": {
+                        "name": "Topic 12",
+                        "description": ""
+                    },
+                    "onDispatch": {
+                        "value": "Lorem",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onSubmission": {
+                        "value": "Ipsum",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onApproval": {
+                        "value": "Dolor",
+                        "history": [],
+                        "comments": []
+                    }
+                }
+            ]
+        },
+        {
+            "groupName": "Group C",
+            "content": [
+                {
+                    "key": {
+                        "name": "Topic 13",
+                        "description": ""
+                    },
+                    "onDispatch": {
+                        "value": "Lorem",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onSubmission": {
+                        "value": "Ipsum",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onApproval": {
+                        "value": "Dolor",
+                        "history": [],
+                        "comments": []
+                    }
+                },
+                {
+                    "key": {
+                        "name": "Topic 23",
+                        "description": ""
+                    },
+                    "onDispatch": {
+                        "value": "Sit2 dfsd",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onSubmission": {
+                        "value": "Amet",
+                        "history": [],
+                        "comments": []
+                    },
+                    "onApproval": {
+                        "value": "\u2026",
+                        "history": [],
+                        "comments": []
+                    }
+                }
+            ]
+        }
+    ]
+}

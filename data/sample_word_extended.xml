@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document
+	xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
+	xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex"
+	xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex"
+	xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex"
+	xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex"
+	xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex"
+	xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex"
+	xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex"
+	xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex"
+	xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink"
+	xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d"
+	xmlns:o="urn:schemas-microsoft-com:office:office"
+	xmlns:oel="http://schemas.microsoft.com/office/2019/extlst"
+	xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+	xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
+	xmlns:v="urn:schemas-microsoft-com:vml"
+	xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
+	xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+	xmlns:w10="urn:schemas-microsoft-com:office:word"
+	xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+	xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+	xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
+	xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex"
+	xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid"
+	xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml"
+	xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash"
+	xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex"
+	xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
+	xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
+	xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
+	xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh wp14">
+	<w:body>
+		<w:tbl>
+			<w:tblPr>
+				<w:tblStyle w:val="TableGrid"/>
+				<w:tblpPr w:leftFromText="180" w:rightFromText="180" w:vertAnchor="page" w:horzAnchor="margin" w:tblpY="3457"/>
+				<w:tblW w:w="0" w:type="auto"/>
+				<w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+			</w:tblPr>
+			<w:tblGrid>
+				<w:gridCol w:w="2254"/>
+				<w:gridCol w:w="2254"/>
+				<w:gridCol w:w="2254"/>
+				<w:gridCol w:w="2254"/>
+			</w:tblGrid>
+			<w:tr w:rsidR="00F929D1" w14:paraId="1859D1AC" w14:textId="77777777" w:rsidTr="005457AF">
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="129E6389" w14:textId="43476C27" w:rsidR="00F929D1" w:rsidRDefault="00F929D1" w:rsidP="005457AF">
+						<w:r>
+							<w:t>Topic</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="615D334B" w14:textId="612B15EA" w:rsidR="00F929D1" w:rsidRDefault="00F929D1" w:rsidP="005457AF">
+						<w:r>
+							<w:t>On Dispatch</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="4F85AABF" w14:textId="4309B196" w:rsidR="00F929D1" w:rsidRDefault="00F929D1" w:rsidP="005457AF">
+						<w:r>
+							<w:t>On Submission</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="55F44DCF" w14:textId="2817C0E2" w:rsidR="00F929D1" w:rsidRDefault="00F929D1" w:rsidP="005457AF">
+						<w:r>
+							<w:t>On Approval</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="00F929D1" w14:paraId="3A081737" w14:textId="77777777" w:rsidTr="005457AF">
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="48CD744C" w14:textId="7D5F7A48" w:rsidR="00F929D1" w:rsidRDefault="00F929D1" w:rsidP="005457AF">
+						<w:r>
+							<w:t>Topic 1</w:t>
+						</w:r>
+						<w:r w:rsidR="00770FBE">
+							<w:t>1</w:t>
+						</w:r>
+						<w:ins w:id="0" w:author="Iuliia Bielovol" w:date="2024-01-09T20:43:00Z">
+							<w:r w:rsidR="00991599">
+								<w:t>111</w:t>
+							</w:r>
+						</w:ins>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="29316AF0" w14:textId="77777777" w:rsidR="00F929D1" w:rsidRDefault="00F929D1" w:rsidP="005457AF">
+						<w:pPr>
+							<w:rPr>
+								<w:ins w:id="1" w:author="Iuliia Bielovol" w:date="2024-01-11T13:30:00Z"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:t>L</w:t>
+						</w:r>
+						<w:ins w:id="2" w:author="Iuliia Bielovol" w:date="2024-01-10T16:36:00Z">
+							<w:r w:rsidR="004110D9">
+								<w:t>987</w:t>
+							</w:r>
+						</w:ins>
+						<w:r>
+							<w:t>orem</w:t>
+						</w:r>
+						<w:ins w:id="3" w:author="Iuliia Bielovol" w:date="2024-01-11T13:30:00Z">
+							<w:r w:rsidR="00C91E0B">
+								<w:t xml:space="preserve"> some text 654</w:t>
+							</w:r>
+						</w:ins>
+					</w:p>
+					<w:p w14:paraId="0CF36606" w14:textId="40B9DC71" w:rsidR="0056069F" w:rsidRDefault="0056069F" w:rsidP="005457AF">
+						<w:ins w:id="4" w:author="Iuliia Bielovol" w:date="2024-01-11T13:30:00Z">
+							<w:r>
+								<w:t>321</w:t>
+							</w:r>
+						</w:ins>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="709DA28F" w14:textId="72CF82B8" w:rsidR="00F929D1" w:rsidRDefault="00F929D1" w:rsidP="005457AF">
+						<w:commentRangeStart w:id="5"/>
+						<w:commentRangeStart w:id="6"/>
+						<w:r>
+							<w:t>Ipsum</w:t>
+						</w:r>
+						<w:commentRangeEnd w:id="5"/>
+						<w:r w:rsidR="0069481F">
+							<w:rPr>
+								<w:rStyle w:val="CommentReference"/>
+							</w:rPr>
+							<w:commentReference w:id="5"/>
+						</w:r>
+						<w:commentRangeEnd w:id="6"/>
+						<w:r w:rsidR="0039569F">
+							<w:rPr>
+								<w:rStyle w:val="CommentReference"/>
+							</w:rPr>
+							<w:commentReference w:id="6"/>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="6A72327F" w14:textId="5521439C" w:rsidR="00F929D1" w:rsidRDefault="00F929D1" w:rsidP="005457AF">
+						<w:proofErr w:type="spellStart"/>
+						<w:r>
+							<w:t>Dolor</w:t>
+						</w:r>
+						<w:proofErr w:type="spellEnd"/>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="00F929D1" w14:paraId="0971D76B" w14:textId="77777777" w:rsidTr="005457AF">
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="636F7417" w14:textId="4473F838" w:rsidR="00F929D1" w:rsidRDefault="00F929D1" w:rsidP="005457AF">
+						<w:r>
+							<w:t>Topic 2</w:t>
+						</w:r>
+						<w:r w:rsidR="00770FBE">
+							<w:t>1</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="45C591C3" w14:textId="67572B0A" w:rsidR="00F929D1" w:rsidRDefault="00DF5817" w:rsidP="005457AF">
+						<w:ins w:id="7" w:author="Iuliia Bielovol" w:date="2024-01-12T09:34:00Z">
+							<w:r>
+								<w:t>zzz</w:t>
+							</w:r>
+						</w:ins>
+						<w:del w:id="8" w:author="Iuliia Bielovol" w:date="2024-01-12T09:01:00Z">
+							<w:r w:rsidR="00F929D1" w:rsidDel="00F03935">
+								<w:delText>Sit</w:delText>
+							</w:r>
+							<w:r w:rsidR="001E7A45" w:rsidDel="00F03935">
+								<w:delText>1</w:delText>
+							</w:r>
+						</w:del>
+						<w:ins w:id="9" w:author="Iuliia Bielovol" w:date="2024-01-12T09:34:00Z">
+							<w:r w:rsidR="000435BD">
+								<w:t xml:space="preserve"></w:t>
+							</w:r>
+							<w:proofErr w:type="spellStart"/>
+							<w:r w:rsidR="000435BD">
+								<w:t>LoremIps</w:t>
+							</w:r>
+						</w:ins>
+						<w:proofErr w:type="spellEnd"/>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="4775C5E6" w14:textId="16E1C380" w:rsidR="00F929D1" w:rsidRDefault="00F929D1" w:rsidP="005457AF">
+						<w:commentRangeStart w:id="10"/>
+						<w:r>
+							<w:t>Amet</w:t>
+						</w:r>
+						<w:commentRangeEnd w:id="10"/>
+						<w:r w:rsidR="0069481F">
+							<w:rPr>
+								<w:rStyle w:val="CommentReference"/>
+							</w:rPr>
+							<w:commentReference w:id="10"/>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="0C35DD27" w14:textId="783BB863" w:rsidR="00F929D1" w:rsidRDefault="00F929D1" w:rsidP="005457AF">
+						<w:r>
+							<w:t>…</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="00F929D1" w14:paraId="17D4A94D" w14:textId="77777777" w:rsidTr="005457AF">
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="6F61EAD3" w14:textId="4F31DCD6" w:rsidR="00F929D1" w:rsidRDefault="00F929D1" w:rsidP="005457AF">
+						<w:r>
+							<w:t>Topic 3</w:t>
+						</w:r>
+						<w:r w:rsidR="00770FBE">
+							<w:t>1</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="7A017B58" w14:textId="77777777" w:rsidR="00893556" w:rsidRDefault="00893556" w:rsidP="005457AF">
+						<w:pPr>
+							<w:rPr>
+								<w:ins w:id="11" w:author="Iuliia Bielovol" w:date="2024-01-09T20:40:00Z"/>
+							</w:rPr>
+						</w:pPr>
+						<w:ins w:id="12" w:author="Iuliia Bielovol" w:date="2024-01-09T20:40:00Z">
+							<w:r>
+								<w:t>Yu new changes</w:t>
+							</w:r>
+						</w:ins>
+					</w:p>
+					<w:p w14:paraId="1A7AA162" w14:textId="5AD27519" w:rsidR="00893556" w:rsidRDefault="00893556" w:rsidP="005457AF">
+						<w:ins w:id="13" w:author="Iuliia Bielovol" w:date="2024-01-09T20:40:00Z">
+							<w:r>
+								<w:t>123</w:t>
+							</w:r>
+						</w:ins>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="6D8DE253" w14:textId="77777777" w:rsidR="00F929D1" w:rsidRDefault="00F929D1" w:rsidP="005457AF"/>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="77306D0E" w14:textId="77777777" w:rsidR="00F929D1" w:rsidRDefault="00F929D1" w:rsidP="005457AF"/>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="00F929D1" w14:paraId="2F30D61C" w14:textId="77777777" w:rsidTr="005457AF">
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="546FA226" w14:textId="46F1CFF0" w:rsidR="00F929D1" w:rsidRDefault="00F929D1" w:rsidP="005457AF">
+						<w:r>
+							<w:t>Topic 4</w:t>
+						</w:r>
+						<w:r w:rsidR="00770FBE">
+							<w:t>1</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="59AC67F7" w14:textId="77777777" w:rsidR="00F929D1" w:rsidRDefault="00F929D1" w:rsidP="005457AF"/>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="461D589B" w14:textId="060D6DE1" w:rsidR="00F929D1" w:rsidRDefault="00893556" w:rsidP="005457AF">
+						<w:proofErr w:type="spellStart"/>
+						<w:ins w:id="14" w:author="Iuliia Bielovol" w:date="2024-01-09T20:40:00Z">
+							<w:r>
+								<w:t>OnSubmissionValue</w:t>
+							</w:r>
+							<w:proofErr w:type="spellEnd"/>
+							<w:r>
+								<w:t xml:space="preserve"> changed</w:t>
+							</w:r>
+						</w:ins>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="6EDCFF08" w14:textId="77777777" w:rsidR="00F929D1" w:rsidRDefault="00F929D1" w:rsidP="005457AF"/>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="00F929D1" w14:paraId="1477944C" w14:textId="77777777" w:rsidTr="005457AF">
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="7F92C1EA" w14:textId="77777777" w:rsidR="00F929D1" w:rsidRDefault="00F929D1" w:rsidP="005457AF"/>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="3C2634BB" w14:textId="77777777" w:rsidR="00F929D1" w:rsidRDefault="00F929D1" w:rsidP="005457AF"/>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="20C1B40A" w14:textId="77777777" w:rsidR="00F929D1" w:rsidRDefault="00F929D1" w:rsidP="005457AF"/>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="4224AFC3" w14:textId="77777777" w:rsidR="00F929D1" w:rsidRDefault="00F929D1" w:rsidP="005457AF"/>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="005457AF" w14:paraId="64A2CE49" w14:textId="77777777" w:rsidTr="005457AF">
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="19069B2F" w14:textId="77777777" w:rsidR="005457AF" w:rsidRDefault="005457AF" w:rsidP="005457AF"/>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="2D7C1BF0" w14:textId="77777777" w:rsidR="005457AF" w:rsidRDefault="005457AF" w:rsidP="005457AF"/>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="0D489311" w14:textId="77777777" w:rsidR="005457AF" w:rsidRDefault="005457AF" w:rsidP="005457AF"/>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="343EB497" w14:textId="77777777" w:rsidR="005457AF" w:rsidRDefault="005457AF" w:rsidP="005457AF"/>
+				</w:tc>
+			</w:tr>
+		</w:tbl>
+		<w:p w14:paraId="54EACD1E" w14:textId="7B7E28D9" w:rsidR="005F7A65" w:rsidRPr="00182BF6" w:rsidRDefault="00182BF6" w:rsidP="005F7A65">
+			<w:pPr>
+				<w:jc w:val="center"/>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="majorHAnsi" w:hAnsiTheme="majorHAnsi" w:cstheme="majorHAnsi"/>
+					<w:b/>
+					<w:bCs/>
+					<w:i/>
+					<w:iCs/>
+					<w:sz w:val="40"/>
+					<w:szCs w:val="40"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:asciiTheme="majorHAnsi" w:hAnsiTheme="majorHAnsi" w:cstheme="majorHAnsi"/>
+					<w:b/>
+					<w:bCs/>
+					<w:i/>
+					<w:iCs/>
+					<w:sz w:val="40"/>
+					<w:szCs w:val="40"/>
+				</w:rPr>
+				<w:t>Some</w:t>
+			</w:r>
+			<w:r w:rsidR="00D90B41">
+				<w:rPr>
+					<w:rFonts w:asciiTheme="majorHAnsi" w:hAnsiTheme="majorHAnsi" w:cstheme="majorHAnsi"/>
+					<w:b/>
+					<w:bCs/>
+					<w:i/>
+					<w:iCs/>
+					<w:sz w:val="40"/>
+					<w:szCs w:val="40"/>
+				</w:rPr>
+				<w:t xml:space="preserve"> doc</w:t>
+			</w:r>
+			<w:ins w:id="15" w:author="Iuliia Bielovol" w:date="2024-01-10T16:36:00Z">
+				<w:r w:rsidR="00326C14">
+					<w:rPr>
+						<w:rFonts w:asciiTheme="majorHAnsi" w:hAnsiTheme="majorHAnsi" w:cstheme="majorHAnsi"/>
+						<w:b/>
+						<w:bCs/>
+						<w:i/>
+						<w:iCs/>
+						<w:sz w:val="40"/>
+						<w:szCs w:val="40"/>
+					</w:rPr>
+					<w:t>ument</w:t>
+				</w:r>
+			</w:ins>
+			<w:r w:rsidR="005F7A65" w:rsidRPr="00182BF6">
+				<w:rPr>
+					<w:rFonts w:asciiTheme="majorHAnsi" w:hAnsiTheme="majorHAnsi" w:cstheme="majorHAnsi"/>
+					<w:b/>
+					<w:bCs/>
+					<w:i/>
+					<w:iCs/>
+					<w:sz w:val="40"/>
+					<w:szCs w:val="40"/>
+				</w:rPr>
+				<w:t xml:space="preserve"> name</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="218B512F" w14:textId="77777777" w:rsidR="00D6310C" w:rsidRDefault="00D6310C"/>
+		<w:p w14:paraId="70EDB8EB" w14:textId="48167B77" w:rsidR="00C42E0C" w:rsidRDefault="005F7A65">
+			<w:r>
+				<w:t>Some header text</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="35396246" w14:textId="757BEB6C" w:rsidR="005457AF" w:rsidRDefault="005F7A65">
+			<w:r>
+				<w:t>Some another test, some tags</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="1A95B017" w14:textId="77777777" w:rsidR="005F7A65" w:rsidRDefault="005F7A65"/>
+		<w:p w14:paraId="0C54EC22" w14:textId="77777777" w:rsidR="005F7A65" w:rsidRDefault="005F7A65"/>
+		<w:p w14:paraId="2644A325" w14:textId="77777777" w:rsidR="009B7FEB" w:rsidRDefault="009B7FEB"/>
+		<w:p w14:paraId="0D49C5F4" w14:textId="77777777" w:rsidR="009B7FEB" w:rsidRDefault="009B7FEB"/>
+		<w:p w14:paraId="2AB9A51A" w14:textId="77777777" w:rsidR="009B7FEB" w:rsidRDefault="009B7FEB"/>
+		<w:tbl>
+			<w:tblPr>
+				<w:tblStyle w:val="TableGrid"/>
+				<w:tblW w:w="0" w:type="auto"/>
+				<w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+			</w:tblPr>
+			<w:tblGrid>
+				<w:gridCol w:w="2254"/>
+				<w:gridCol w:w="2254"/>
+				<w:gridCol w:w="2254"/>
+				<w:gridCol w:w="2254"/>
+			</w:tblGrid>
+			<w:tr w:rsidR="009B7FEB" w14:paraId="4B17519F" w14:textId="77777777" w:rsidTr="005537A0">
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="0E6B30EE" w14:textId="77777777" w:rsidR="009B7FEB" w:rsidRDefault="009B7FEB" w:rsidP="005537A0">
+						<w:r>
+							<w:t>Topic</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="4140DFC5" w14:textId="77777777" w:rsidR="009B7FEB" w:rsidRDefault="009B7FEB" w:rsidP="005537A0">
+						<w:r>
+							<w:t>On Dispatch</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="70D56314" w14:textId="77777777" w:rsidR="009B7FEB" w:rsidRDefault="009B7FEB" w:rsidP="005537A0">
+						<w:r>
+							<w:t>On Submission</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="4546E04A" w14:textId="77777777" w:rsidR="009B7FEB" w:rsidRDefault="009B7FEB" w:rsidP="005537A0">
+						<w:r>
+							<w:t>On Approval</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="009B7FEB" w14:paraId="3CC2AF27" w14:textId="77777777" w:rsidTr="005537A0">
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="58A31953" w14:textId="45C30DFE" w:rsidR="009B7FEB" w:rsidRDefault="009B7FEB" w:rsidP="005537A0">
+						<w:r>
+							<w:t>Topic 1</w:t>
+						</w:r>
+						<w:r w:rsidR="00770FBE">
+							<w:t>2</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="040F79D2" w14:textId="77777777" w:rsidR="009B7FEB" w:rsidRDefault="009B7FEB" w:rsidP="005537A0">
+						<w:r>
+							<w:t>Lorem</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="60C119A5" w14:textId="2AA1A563" w:rsidR="009B7FEB" w:rsidRDefault="009B7FEB" w:rsidP="005537A0">
+						<w:r>
+							<w:t>Ipsum</w:t>
+						</w:r>
+						<w:ins w:id="16" w:author="Iuliia Bielovol" w:date="2024-01-09T20:40:00Z">
+							<w:r w:rsidR="00893556">
+								<w:t xml:space="preserve"></w:t>
+							</w:r>
+							<w:commentRangeStart w:id="17"/>
+							<w:r w:rsidR="00893556">
+								<w:t>groupB</w:t>
+							</w:r>
+						</w:ins>
+						<w:ins w:id="18" w:author="Iuliia Bielovol" w:date="2024-01-09T20:42:00Z">
+							<w:r w:rsidR="00924FBA">
+								<w:t>1</w:t>
+							</w:r>
+						</w:ins>
+						<w:commentRangeEnd w:id="17"/>
+						<w:ins w:id="19" w:author="Iuliia Bielovol" w:date="2024-01-11T19:12:00Z">
+							<w:r w:rsidR="0039569F">
+								<w:rPr>
+									<w:rStyle w:val="CommentReference"/>
+								</w:rPr>
+								<w:commentReference w:id="17"/>
+							</w:r>
+						</w:ins>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="6B01BD29" w14:textId="77777777" w:rsidR="009B7FEB" w:rsidRDefault="009B7FEB" w:rsidP="005537A0">
+						<w:proofErr w:type="spellStart"/>
+						<w:r>
+							<w:t>Dolor</w:t>
+						</w:r>
+						<w:proofErr w:type="spellEnd"/>
+					</w:p>
+				</w:tc>
+			</w:tr>
+		</w:tbl>
+		<w:p w14:paraId="5D4BADB0" w14:textId="77777777" w:rsidR="005457AF" w:rsidRDefault="005457AF" w:rsidP="005457AF"/>
+		<w:p w14:paraId="7E488106" w14:textId="77777777" w:rsidR="005457AF" w:rsidRDefault="005457AF" w:rsidP="005457AF"/>
+		<w:p w14:paraId="6906BFEB" w14:textId="77777777" w:rsidR="005457AF" w:rsidRDefault="005457AF" w:rsidP="005457AF"/>
+		<w:tbl>
+			<w:tblPr>
+				<w:tblStyle w:val="TableGrid"/>
+				<w:tblW w:w="0" w:type="auto"/>
+				<w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+			</w:tblPr>
+			<w:tblGrid>
+				<w:gridCol w:w="2254"/>
+				<w:gridCol w:w="2254"/>
+				<w:gridCol w:w="2254"/>
+				<w:gridCol w:w="2254"/>
+			</w:tblGrid>
+			<w:tr w:rsidR="005457AF" w14:paraId="50C8C140" w14:textId="77777777" w:rsidTr="005537A0">
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="3B53140D" w14:textId="77777777" w:rsidR="005457AF" w:rsidRDefault="005457AF" w:rsidP="005537A0">
+						<w:r>
+							<w:t>Topic</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="7D350BC3" w14:textId="77777777" w:rsidR="005457AF" w:rsidRDefault="005457AF" w:rsidP="005537A0">
+						<w:r>
+							<w:t>On Dispatch</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="77113E42" w14:textId="77777777" w:rsidR="005457AF" w:rsidRDefault="005457AF" w:rsidP="005537A0">
+						<w:r>
+							<w:t>On Submission</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="6B8E6515" w14:textId="77777777" w:rsidR="005457AF" w:rsidRDefault="005457AF" w:rsidP="005537A0">
+						<w:r>
+							<w:t>On Approval</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="005457AF" w14:paraId="526DB661" w14:textId="77777777" w:rsidTr="005537A0">
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="40AAA05F" w14:textId="66FCA103" w:rsidR="005457AF" w:rsidRDefault="005457AF" w:rsidP="005537A0">
+						<w:r>
+							<w:t>Topic 1</w:t>
+						</w:r>
+						<w:r w:rsidR="00770FBE">
+							<w:t>3</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="6CD73A78" w14:textId="77777777" w:rsidR="005457AF" w:rsidRDefault="005457AF" w:rsidP="005537A0">
+						<w:r>
+							<w:t>Lorem</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="17EB0542" w14:textId="77777777" w:rsidR="005457AF" w:rsidRDefault="005457AF" w:rsidP="005537A0">
+						<w:r>
+							<w:t>Ipsum</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="2E356B9A" w14:textId="6E311BAD" w:rsidR="005457AF" w:rsidRDefault="005457AF" w:rsidP="005537A0">
+						<w:proofErr w:type="spellStart"/>
+						<w:r>
+							<w:t>Dol</w:t>
+						</w:r>
+						<w:ins w:id="20" w:author="Iuliia Bielovol" w:date="2024-01-12T13:37:00Z">
+							<w:r w:rsidR="00EA6C74">
+								<w:t>or</w:t>
+							</w:r>
+						</w:ins>
+						<w:proofErr w:type="spellEnd"/>
+						<w:del w:id="21" w:author="Iuliia Bielovol" w:date="2024-01-12T13:36:00Z">
+							<w:r w:rsidDel="001D3A69">
+								<w:delText>or</w:delText>
+							</w:r>
+						</w:del>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="005457AF" w14:paraId="7994020F" w14:textId="77777777" w:rsidTr="005537A0">
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="55FA935C" w14:textId="04B9E4D5" w:rsidR="005457AF" w:rsidRDefault="005457AF" w:rsidP="005537A0">
+						<w:r>
+							<w:t>Topic 2</w:t>
+						</w:r>
+						<w:r w:rsidR="00770FBE">
+							<w:t>3</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="08F40E63" w14:textId="1359CC4F" w:rsidR="005457AF" w:rsidRDefault="005457AF" w:rsidP="005537A0">
+						<w:r>
+							<w:t>Sit</w:t>
+						</w:r>
+						<w:r w:rsidR="001E7A45">
+							<w:t xml:space="preserve">2 </w:t>
+						</w:r>
+						<w:proofErr w:type="spellStart"/>
+						<w:r w:rsidR="001E7A45">
+							<w:t>dfsd</w:t>
+						</w:r>
+						<w:proofErr w:type="spellEnd"/>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="15D896E7" w14:textId="77777777" w:rsidR="005457AF" w:rsidRDefault="005457AF" w:rsidP="005537A0">
+						<w:r>
+							<w:t>Amet</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="2254" w:type="dxa"/>
+					</w:tcPr>
+					<w:p w14:paraId="3121D278" w14:textId="77777777" w:rsidR="005457AF" w:rsidRDefault="005457AF" w:rsidP="005537A0">
+						<w:r>
+							<w:t>…</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+		</w:tbl>
+		<w:p w14:paraId="3E1FE9B1" w14:textId="77777777" w:rsidR="005457AF" w:rsidRDefault="005457AF" w:rsidP="005457AF"/>
+		<w:p w14:paraId="30A6E9FC" w14:textId="77777777" w:rsidR="009B7FEB" w:rsidRDefault="009B7FEB"/>
+		<w:sectPr w:rsidR="009B7FEB">
+			<w:pgSz w:w="11906" w:h="16838"/>
+			<w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="708" w:footer="708" w:gutter="0"/>
+			<w:cols w:space="708"/>
+			<w:docGrid w:linePitch="360"/>
+		</w:sectPr>
+	</w:body>
+</w:document>
